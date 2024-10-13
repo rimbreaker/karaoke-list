@@ -1,5 +1,5 @@
-import { Card, Text } from '@mantine/core'
-const FormPage = () => {
+import { Card, Center, Skeleton, Text } from '@mantine/core'
+const FormPage = ({ active }: { active: boolean }) => {
     const width = Math.min(window.innerWidth - 50, 640)
     return (
         <>
@@ -10,11 +10,14 @@ const FormPage = () => {
                     Możecie składać zamówienia przez ten formularz:
                 </Text>
             </Card>
-            <iframe
-                src="https://docs.google.com/forms/d/e/1FAIpQLSfGcpcv2osGhE88FPwjcciMwlzNLq7CSHIZT2gKkomqNYWx0Q/viewform?embedded=true"
-                width={width}
-                height="700"
-                frameBorder="0">Ładuję…</iframe>
+            <Center style={{ position: "relative" }}>
+                {active && <iframe
+                    src="https://docs.google.com/forms/d/e/1FAIpQLSfGcpcv2osGhE88FPwjcciMwlzNLq7CSHIZT2gKkomqNYWx0Q/viewform?embedded=true"
+                    width={width}
+                    height="700"
+                    frameBorder="0">Ładuję…</iframe>}
+                <Skeleton style={{ zIndex: -1, position: "absolute" }} height={700} width={width} radius="lg" />
+            </Center>
         </>
     )
 }

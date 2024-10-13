@@ -2,8 +2,10 @@ import { AppShell, Group, Tabs, Container } from '@mantine/core';
 import { ColorSchemeToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
 import SongsContainer from '@/components/SongList/SongsContainer';
 import FormPage from '@/components/SongForm/FormPage';
+import { useState } from 'react';
 
 export function HomePage() {
+  const [currentTab, setCurrentTab] = useState<string | null>("list")
   return (
     <AppShell
       ta="center"
@@ -11,7 +13,7 @@ export function HomePage() {
       navbar={{ width: 300, breakpoint: 'sm', collapsed: { desktop: true } }}
       padding="md"
     >
-      <Tabs variant='outline' defaultValue="list" >
+      <Tabs variant='outline' defaultValue="list" onChange={setCurrentTab} >
         <AppShell.Header withBorder={false} >
           <Tabs.List >
             <Group justify="space-around" style={{ flex: 1 }}>
@@ -33,7 +35,7 @@ export function HomePage() {
               <SongsContainer />
             </Tabs.Panel>
             <Tabs.Panel value="form">
-              <FormPage />
+              <FormPage active={currentTab == "form"} />
             </Tabs.Panel>
           </Container>
         </AppShell.Main>
