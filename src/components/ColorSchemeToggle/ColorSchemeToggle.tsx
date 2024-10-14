@@ -1,4 +1,4 @@
-import { useMantineColorScheme, Switch } from '@mantine/core';
+import { useMantineColorScheme, Switch, Text } from '@mantine/core';
 import { useColorScheme } from '@mantine/hooks';
 
 export function ColorSchemeToggle() {
@@ -8,8 +8,8 @@ export function ColorSchemeToggle() {
   return (
     <Switch size="md"
       color="dark.4"
-      onLabel={<h1>☀</h1>}
-      offLabel={<h1>🌙</h1>}
+      onLabel={<Text size='xl'>☀</Text>}
+      offLabel={<Text size='xl'>🌙</Text>}
       onChange={toggleColorScheme}
       defaultChecked={scheme == "dark"}
     />

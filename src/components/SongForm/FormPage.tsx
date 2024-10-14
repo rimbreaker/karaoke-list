@@ -1,4 +1,5 @@
-import { Card, Center, Skeleton, Text } from '@mantine/core'
+import { Card, Center, Text } from '@mantine/core'
+
 const FormPage = ({ active }: { active: boolean }) => {
     const width = Math.min(window.innerWidth - 50, 640)
     return (
@@ -12,11 +13,11 @@ const FormPage = ({ active }: { active: boolean }) => {
             </Card>
             <Center style={{ position: "relative" }}>
                 {active && <iframe
+                    style={{ backgroundColor: "#FFFFFF" }}
                     src="https://docs.google.com/forms/d/e/1FAIpQLSfGcpcv2osGhE88FPwjcciMwlzNLq7CSHIZT2gKkomqNYWx0Q/viewform?embedded=true"
                     width={width}
                     height="700"
                     frameBorder="0">Ładuję…</iframe>}
-                <Skeleton style={{ zIndex: -1, position: "absolute" }} height={700} width={width} radius="lg" />
             </Center>
         </>
     )
