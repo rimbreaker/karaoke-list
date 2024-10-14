@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build && copy .\\images\\* .\\dist\\assets\\",
+    "ci-build": "tsc && vite build && cp ./images/* ./dist/assets/",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "lint": "npm run eslint && npm run stylelint",
