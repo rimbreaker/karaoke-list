@@ -35,7 +35,7 @@ export function HomePage() {
               <SongsContainer />
             </Tabs.Panel>
             <Tabs.Panel value="form">
-              <FormPage active={currentTab == "form"} />
+              <FormPage active={currentTab === "form"} />
             </Tabs.Panel>
           </Container>
         </AppShell.Main>

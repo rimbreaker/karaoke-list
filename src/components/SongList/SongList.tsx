@@ -15,7 +15,7 @@ function SongList({ songsList }: { songsList: { title: string, author: string, l
                 <Accordion.Control>{songKey}</Accordion.Control>
                 <Accordion.Panel >
                     <Center style={{ position: "relative" }}>
-                        {openAccordion == songKey && <><iframe
+                        {openAccordion === songKey && <><iframe
                             width={width}
                             height={height}
                             src={`https://www.youtube.com/embed/${song.link?.split('watch?v=')[1] ?? ''}`}

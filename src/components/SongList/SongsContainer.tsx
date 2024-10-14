@@ -1,6 +1,6 @@
 import SongList from "./SongList";
 import songs from './songs.json'
-import { SegmentedControl, TextInput } from '@mantine/core';
+import { SegmentedControl, TextInput, ScrollArea, CloseButton } from '@mantine/core';
 import { useRef, useState } from "react";
 import { debounce } from '../../utils'
 
@@ -8,6 +8,7 @@ import { debounce } from '../../utils'
 const SongsContainer = () => {
     const baseSongs = Object.values(songs)
     const searchbarRef = useRef<HTMLInputElement>(null)
+    const formRef = useRef<HTMLFormElement>(null)
     const [sortOption, setSortOption] = useState('autor')
     const [songValues, setSongValues] = useState(Object.values(baseSongs))
 
@@ -17,10 +18,10 @@ const SongsContainer = () => {
     }
     const sortSongs = (sortInput?: string) => {
 
-        if (sortInput) setSortOption(sortInput)
+        if (sortInput) { setSortOption(sortInput) }
         const sortBy = sortInput ?? sortOption
         setSongValues(currSongs => currSongs.toSorted((a, b) =>
-            sortBy == 'autor' ?
+            sortBy === 'autor' ?
                 a.author > b.author ? 1 : -1 :
                 a.title > b.title ? 1 : -1
         ))
@@ -41,18 +42,28 @@ const SongsContainer = () => {
     }
 
     return <>
-        <TextInput
-            leftSectionPointerEvents="none"
-            leftSection={"🔍"}
-            placeholder="szukaj"
-            ref={searchbarRef}
-            onChange={debounce(filterSongs, 200)}
-        />
+        <form ref={formRef}>
+            <TextInput
+                leftSectionPointerEvents="none"
+                leftSection="🔍"
+                rightSection={
+                    <CloseButton onClick={() => {
+                        formRef.current?.reset();
+                        filterSongs()
+                    }} />
+                }
+                placeholder="szukaj"
+                ref={searchbarRef}
+                onChange={debounce(filterSongs, 200)}
+            />
+        </form>
         {songValues.length} wyników - sortuj wg:<SegmentedControl
             defaultValue="autor"
             onChange={sortSongs}
             data={['autor', 'tytuł']} />
-        <SongList songsList={songValues as any} />
+        <ScrollArea h='75vh'>
+            <SongList songsList={songValues as any} />
+        </ScrollArea>
     </>
 }
 

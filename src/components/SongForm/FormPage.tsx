@@ -13,7 +13,7 @@ const FormPage = ({ active }: { active: boolean }) => {
             </Card>
             <Center style={{ position: "relative" }}>
                 {active && <iframe
-                    style={{ backgroundColor: "#FFFFFF" }}
+                    title="songs form"
                     src="https://docs.google.com/forms/d/e/1FAIpQLSfGcpcv2osGhE88FPwjcciMwlzNLq7CSHIZT2gKkomqNYWx0Q/viewform?embedded=true"
                     width={width}
                     height="700"
