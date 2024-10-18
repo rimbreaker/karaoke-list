@@ -14,6 +14,11 @@
         "title": "here without you",
         "link": "https://www.youtube.com/watch?v=kPBzTxZQG5Q"
     },
+    "3 Doors Down - Kryptonite": {
+        "author": "3 Doors Down",
+        "title": "Kryptonite",
+        "link": "https://www.youtube.com/watch?v=xPU8OAjjS4k"
+    },
     "30 Seconds to Mars - The kill": {
         "author": "30 Seconds to Mars",
         "title": "The kill",
@@ -454,6 +459,11 @@
         "title": "Everybody (Backstreet's Back)",
         "link": "https://www.youtube.com/watch?v=6M6samPEMpM"
     },
+    "Bag Raiders - Shooting Stars": {
+        "author": "Bag Raiders",
+        "title": "Shooting Stars",
+        "link": "https://www.youtube.com/watch?v=feA64wXhbjo"
+    },
     "Bajm - Biala Armia": {
         "author": "Bajm",
         "title": "Biala Armia",
@@ -508,6 +518,11 @@
         "author": "Beach Boys",
         "title": "Wouldn't It Be Nice",
         "link": "https://www.youtube.com/watch?v=dmcNbsLCpBQ"
+    },
+    "Beach House - Space Song": {
+        "author": "Beach House",
+        "title": "Space Song",
+        "link": "https://www.youtube.com/watch?v=RBtlPT23PTM"
     },
     "Beck - Loser": {
         "author": "Beck",
@@ -672,7 +687,7 @@
     "Blur - Girls & Boys": {
         "author": "Blur",
         "title": "Girls & Boys",
-        "link": "https://www.youtube.com/watch?v=p9wsEOVK4cw"
+        "link": "https://www.youtube.com/watch?v=WDswiT87oo8"
     },
     "Blur - Parklife": {
         "author": "Blur",
@@ -788,6 +803,11 @@
         "author": "Bracia Figo Fagot",
         "title": "Bożenka",
         "link": "https://www.youtube.com/watch?v=KaOEVHQoHzM"
+    },
+    "Brandi Carlile - The Story": {
+        "author": "Brandi Carlile",
+        "title": "The Story",
+        "link": "https://www.youtube.com/watch?v=o8pQLtHTPaI"
     },
     "BRAThANKI - Czerwone korale": {
         "author": "BRAThANKI",
@@ -914,6 +934,11 @@
         "title": "Za Ostatni Grosz",
         "link": "https://www.youtube.com/watch?v=PYpg4BypJoA"
     },
+    "Cake - I will survive": {
+        "author": "Cake",
+        "title": "I will survive",
+        "link": "https://www.youtube.com/watch?v=f9rCUQjmkxU"
+    },
     "Calvin Harris & Alesso Ft. Hurts - Under control": {
         "author": "Calvin Harris & Alesso Ft. Hurts",
         "title": "Under control",
@@ -968,6 +993,11 @@
         "author": "Carly Rae Jepsen",
         "title": "I Really Like You",
         "link": "https://www.youtube.com/watch?v=qV5lzRHrGeg"
+    },
+    "Carly Simon - You're so vain": {
+        "author": "Carly Simon",
+        "title": "You're so vain",
+        "link": "https://www.youtube.com/watch?v=j13oJajXx0M"
     },
     "Cascada - Everytime We Touch": {
         "author": "Cascada",
@@ -1227,12 +1257,12 @@
     "Czeslaw Niemen - Pod-papugami VIDEO": {
         "author": "Czeslaw Niemen",
         "title": "Pod-papugami VIDEO",
-        "link": "https://www.youtube.com/watch?v=KbEc3kDgVyA"
+        "link": "https://www.youtube.com/watch?v=ePwwMgrPMW8"
     },
     "Czesław Niemen - Sen o Warszawie": {
         "author": "Czesław Niemen",
         "title": "Sen o Warszawie",
-        "link": "https://www.youtube.com/watch?v=ePNUSmH3dMI"
+        "link": "https://www.youtube.com/watch?v=LTzxqIRevB4"
     },
     "Czesław Śpiewa - Maszynka do świerkania": {
         "author": "Czesław Śpiewa",
@@ -1454,10 +1484,170 @@
         "title": "White Flag",
         "link": "https://www.youtube.com/watch?v=j-fWDrZSiZs"
     },
+    "Die Doofen - Mief! (Nimm Mich Jetzt, Auch Wenn Ich Stinke)": {
+        "author": "Die Doofen",
+        "title": "Mief! (Nimm Mich Jetzt, Auch Wenn Ich Stinke)",
+        "link": "https://www.youtube.com/watch?v=gyrMA-pu6y8"
+    },
+    "Die Prinzen - Alles nur geklaut": {
+        "author": "Die Prinzen",
+        "title": "Alles nur geklaut",
+        "link": "https://www.youtube.com/watch?v=yMR45cZbvDw"
+    },
+    "Die Prinzen - Millionär": {
+        "author": "Die Prinzen",
+        "title": "Millionär",
+        "link": "https://www.youtube.com/watch?v=ezQs0sB8Q0s"
+    },
+    "Die Toten Hosen - 1000 gute Gründe": {
+        "author": "Die Toten Hosen",
+        "title": "1000 gute Gründe",
+        "link": "https://www.youtube.com/watch?v=gjR1QZeluG8"
+    },
+    "Die Toten Hosen - All die ganzen Jahre": {
+        "author": "Die Toten Hosen",
+        "title": "All die ganzen Jahre",
+        "link": "https://www.youtube.com/watch?v=CynbhjMY4J0"
+    },
+    "Die Toten Hosen - Alles Aus Liebe": {
+        "author": "Die Toten Hosen",
+        "title": "Alles Aus Liebe",
+        "link": "https://www.youtube.com/watch?v=z752hzudXiY"
+    },
+    "Die Toten Hosen - Alles Was War": {
+        "author": "Die Toten Hosen",
+        "title": "Alles Was War",
+        "link": "https://www.youtube.com/watch?v=ghY-ubNj-Co"
+    },
+    "Die Toten Hosen - Alles Wird Vorübergehen": {
+        "author": "Die Toten Hosen",
+        "title": "Alles Wird Vorübergehen",
+        "link": "https://www.youtube.com/watch?v=Yoh89mG2eZM"
+    },
+    "Die Toten Hosen - Auld lang Syne": {
+        "author": "Die Toten Hosen",
+        "title": "Auld lang Syne",
+        "link": "https://www.youtube.com/watch?v=x5egd2VF5Us"
+    },
+    "Die Toten Hosen - Bayern": {
+        "author": "Die Toten Hosen",
+        "title": "Bayern",
+        "link": "https://www.youtube.com/watch?v=6LHGY33cFiE"
+    },
+    "Die Toten Hosen - Bonnie & Clyde": {
+        "author": "Die Toten Hosen",
+        "title": "Bonnie & Clyde",
+        "link": "https://www.youtube.com/watch?v=bEOl38y8Nj8"
+    },
+    "Die Toten Hosen - Eisgekühlter Bommerlunder": {
+        "author": "Die Toten Hosen",
+        "title": "Eisgekühlter Bommerlunder",
+        "link": "https://www.youtube.com/watch?v=t03Nh0hyBY4"
+    },
+    "Die Toten Hosen - Freunde": {
+        "author": "Die Toten Hosen",
+        "title": "Freunde",
+        "link": "https://www.youtube.com/watch?v=bL_lkBYQAAg"
+    },
+    "Die Toten Hosen - Friss oder Stirb": {
+        "author": "Die Toten Hosen",
+        "title": "Friss oder Stirb",
+        "link": "https://www.youtube.com/watch?v=X0p0sX_ive4"
+    },
+    "Die Toten Hosen - Hier kommt Alex": {
+        "author": "Die Toten Hosen",
+        "title": "Hier kommt Alex",
+        "link": "https://www.youtube.com/watch?v=6z8o7qAIlIU"
+    },
+    "Die Toten Hosen - Hier Kommt Alex (Unplugged)": {
+        "author": "Die Toten Hosen",
+        "title": "Hier Kommt Alex (Unplugged)",
+        "link": "https://www.youtube.com/watch?v=gT5psGkC2To"
+    },
+    "Die Toten Hosen - Ich bin die Sehnsucht in Dir": {
+        "author": "Die Toten Hosen",
+        "title": "Ich bin die Sehnsucht in Dir",
+        "link": "https://www.youtube.com/watch?v=Zfo1IA_9UAw"
+    },
+    "Die Toten Hosen - Kein Alkohol (ist auch keine Lösung)": {
+        "author": "Die Toten Hosen",
+        "title": "Kein Alkohol (ist auch keine Lösung)",
+        "link": "https://www.youtube.com/watch?v=HFmzrCAocq8"
+    },
+    "Die Toten Hosen - Nur zu Besuch": {
+        "author": "Die Toten Hosen",
+        "title": "Nur zu Besuch",
+        "link": "https://www.youtube.com/watch?v=c-Dh0BLHQgU"
+    },
+    "Die Toten Hosen - Paradies": {
+        "author": "Die Toten Hosen",
+        "title": "Paradies",
+        "link": "https://www.youtube.com/watch?v=Gq2BUsuELsA"
+    },
+    "Die Toten Hosen - Pushed Again": {
+        "author": "Die Toten Hosen",
+        "title": "Pushed Again",
+        "link": "https://www.youtube.com/watch?v=d2E_iiTd9hQ"
+    },
+    "Die Toten Hosen - Schön sein": {
+        "author": "Die Toten Hosen",
+        "title": "Schön sein",
+        "link": "https://www.youtube.com/watch?v=78WtbR1q0Nc"
+    },
+    "Die Toten Hosen - Steh auf, wenn du am Boden bist": {
+        "author": "Die Toten Hosen",
+        "title": "Steh auf, wenn du am Boden bist",
+        "link": "https://www.youtube.com/watch?v=J86zYZGApkc"
+    },
+    "Die Toten Hosen - Still, Still, Still": {
+        "author": "Die Toten Hosen",
+        "title": "Still, Still, Still",
+        "link": "https://www.youtube.com/watch?v=OxLwTi_kkvM"
+    },
+    "Die Toten Hosen - Walkampf": {
+        "author": "Die Toten Hosen",
+        "title": "Walkampf",
+        "link": "https://www.youtube.com/watch?v=-2BQQkoj3i4"
+    },
+    "Die Toten Hosen - Warum werde ich nicht satt": {
+        "author": "Die Toten Hosen",
+        "title": "Warum werde ich nicht satt",
+        "link": "https://www.youtube.com/watch?v=jcBYOs4yJR8"
+    },
+    "Die Toten Hosen - Was zählt": {
+        "author": "Die Toten Hosen",
+        "title": "Was zählt",
+        "link": "https://www.youtube.com/watch?v=JU7SuEl24Xk"
+    },
+    "Die Toten Hosen - Wünsch DIR was": {
+        "author": "Die Toten Hosen",
+        "title": "Wünsch DIR was",
+        "link": "https://www.youtube.com/watch?v=vKnsfwFj-PE"
+    },
+    "Die Toten Hosen - Zehn Kleine Jägermeister": {
+        "author": "Die Toten Hosen",
+        "title": "Zehn Kleine Jägermeister",
+        "link": "https://www.youtube.com/watch?v=tR4vamT51Nw"
+    },
+    "Dire Straits - Money for Nothing": {
+        "author": "Dire Straits",
+        "title": "Money for Nothing",
+        "link": "https://www.youtube.com/watch?v=wTP2RUD_cL0"
+    },
     "Dire Straits - Sultans of Swing": {
         "author": "Dire Straits",
         "title": "Sultans of Swing",
         "link": "https://www.youtube.com/watch?v=h0ffIJ7ZO4U"
+    },
+    "Dire Straits - Walk of Life": {
+        "author": "Dire Straits",
+        "title": "Walk of Life",
+        "link": "https://www.youtube.com/watch?v=kd9TlGDZGkI"
+    },
+    "Dire Straits - Your Latest Trick": {
+        "author": "Dire Straits",
+        "title": "Your Latest Trick",
+        "link": "https://www.youtube.com/watch?v=AKiVttFnqkY"
     },
     "Disclosure feat. Sam Smith - Omen": {
         "author": "Disclosure feat. Sam Smith",
@@ -1478,6 +1668,11 @@
         "author": "Doda",
         "title": "Katharsis VIDEO",
         "link": "https://www.youtube.com/watch?v=RakzX71UcHw"
+    },
+    "Don McLean - American Pie": {
+        "author": "Don McLean",
+        "title": "American Pie",
+        "link": "https://www.youtube.com/watch?v=PRpiBpDy7MQ"
     },
     "Don Omar & Lucenzo - Danza Kuduro": {
         "author": "Don Omar & Lucenzo",
@@ -1719,6 +1914,11 @@
         "title": "Love Me Like You Do",
         "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
     },
+    "Elton John & Kiki Dee - Don't Go Breaking My Heart": {
+        "author": "Elton John & Kiki Dee",
+        "title": "Don't Go Breaking My Heart",
+        "link": "https://www.youtube.com/watch?v=z0qW9P-uYfM"
+    },
     "Elton John - Can you feel the love tonight": {
         "author": "Elton John",
         "title": "Can you feel the love tonight",
@@ -1948,6 +2148,11 @@
         "author": "Fergie",
         "title": "Big Girls Don't Cry",
         "link": "https://www.youtube.com/watch?v=agrXgrAgQ0U"
+    },
+    "Finger Eleven - Paralyzer": {
+        "author": "Finger Eleven",
+        "title": "Paralyzer",
+        "link": "https://www.youtube.com/watch?v=BJk6gZuPKRE"
     },
     "Fleetwood Mac - Big love": {
         "author": "Fleetwood Mac",
@@ -2309,9 +2514,9 @@
         "title": "Sweet Child O´Mine",
         "link": "https://www.youtube.com/watch?v=1w7OgIMMRc4"
     },
-    "Gutek i Pidżama Porno -  Nikt tak pięknie nie mówił że się boi miłości [VIDEO]": {
+    "Gutek i Pidżama Porno - Nikt tak pięknie nie mówił że się boi miłości [VIDEO]": {
         "author": "Gutek i Pidżama Porno",
-        "title": " Nikt tak pięknie nie mówił że się boi miłości [VIDEO]",
+        "title": "Nikt tak pięknie nie mówił że się boi miłości [VIDEO]",
         "link": "https://www.youtube.com/watch?v=ZyXOSsE7z6Q"
     },
     "Gwen Stefani - Hollaback Girl": {
@@ -2688,6 +2893,11 @@
         "author": "Journey",
         "title": "Don't Stop Believing",
         "link": "https://www.youtube.com/watch?v=1k8craCGpgs"
+    },
+    "Joy Division - Love Will Tear Us Apart": {
+        "author": "Joy Division",
+        "title": "Love Will Tear Us Apart",
+        "link": "https://www.youtube.com/watch?v=zuuObGsB0No"
     },
     "Juanes - La camisa negra": {
         "author": "Juanes",
@@ -3279,6 +3489,11 @@
         "title": "Mambo No. 5",
         "link": "https://www.youtube.com/watch?v=EK_LN3XEcnw"
     },
+    "Luis Fonsi feat. Daddy Yankee - Despacito": {
+        "author": "Luis Fonsi feat. Daddy Yankee",
+        "title": "Despacito",
+        "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    },
     "Lykke Li - I Follow Rivers (The Magician Remix)": {
         "author": "Lykke Li",
         "title": "I Follow Rivers (The Magician Remix)",
@@ -3288,6 +3503,11 @@
         "author": "Lynyrd Skynyrd",
         "title": "Free Bird",
         "link": "https://www.youtube.com/watch?v=0LwcvjNJTuM"
+    },
+    "Lynyrd Skynyrd - Simple Man": {
+        "author": "Lynyrd Skynyrd",
+        "title": "Simple Man",
+        "link": "https://www.youtube.com/watch?v=Mqfwbf3X8SA"
     },
     "Lynyrd Skynyrd - Sweet Home Alabama": {
         "author": "Lynyrd Skynyrd",
@@ -3897,7 +4117,7 @@
     "Muse - Falling Away With You": {
         "author": "Muse",
         "title": "Falling Away With You",
-        "link": "https://www.youtube.com/watch?v=fU88nehcnBY"
+        "link": "https://www.youtube.com/watch?v=KyJxckIQ51U"
     },
     "Muse - Feeling Good": {
         "author": "Muse",
@@ -4024,6 +4244,11 @@
         "title": "I'm not okay (I promise)",
         "link": "https://www.youtube.com/watch?v=dhZTNgAs4Fc"
     },
+    "My Chemical Romance - Na Na Na": {
+        "author": "My Chemical Romance",
+        "title": "Na Na Na",
+        "link": "https://www.youtube.com/watch?v=egG7fiE89IU"
+    },
     "My Chemical Romance - Welcome to the black parade": {
         "author": "My Chemical Romance",
         "title": "Welcome to the black parade",
@@ -4053,6 +4278,16 @@
         "author": "Myslovitz",
         "title": "Z twarza Marilyn Monroe",
         "link": "https://www.youtube.com/watch?v=Xh7O5aq7EKo"
+    },
+    "Måneskin - Honey (Are u coming) (acoustic version)": {
+        "author": "Måneskin",
+        "title": "Honey (Are u coming) (acoustic version)",
+        "link": "https://www.youtube.com/watch?v=xTRx39EtPZ4"
+    },
+    "Måneskin - Zitti e buoni": {
+        "author": "Måneskin",
+        "title": "Zitti e buoni",
+        "link": "https://www.youtube.com/watch?v=QN1odfjtMoo"
     },
     "Mötley Crüe - Kickstart my heart": {
         "author": "Mötley Crüe",
@@ -4089,10 +4324,30 @@
         "title": "I'm Like A Bird",
         "link": "https://www.youtube.com/watch?v=roPQ_M3yJTA"
     },
+    "Nelly Furtado - Maneater": {
+        "author": "Nelly Furtado",
+        "title": "Maneater",
+        "link": "https://www.youtube.com/watch?v=PLolag3YSYU"
+    },
+    "Nelly Furtado - Promiscuous": {
+        "author": "Nelly Furtado",
+        "title": "Promiscuous",
+        "link": "https://www.youtube.com/watch?v=0J3vgcE5i2o"
+    },
+    "Nelly Furtado - Say It Right": {
+        "author": "Nelly Furtado",
+        "title": "Say It Right",
+        "link": "https://www.youtube.com/watch?v=6JnGBs88sL0"
+    },
     "Nelly Furtado - Turn Off the Light": {
         "author": "Nelly Furtado",
         "title": "Turn Off the Light",
         "link": "https://www.youtube.com/watch?v=kOL7aeIDruA"
+    },
+    "Nena - 99 Luftballons": {
+        "author": "Nena",
+        "title": "99 Luftballons",
+        "link": "https://www.youtube.com/watch?v=Fpu5a0Bl8eY"
     },
     "Nick Cave and Kylie Minogue - Where the Wild Roses Grow": {
         "author": "Nick Cave and Kylie Minogue",
@@ -4279,10 +4534,25 @@
         "title": "Dragostea Din Tei",
         "link": "https://www.youtube.com/watch?v=YnopHCL1Jk8"
     },
+    "Oasis - Champagne Supernova": {
+        "author": "Oasis",
+        "title": "Champagne Supernova",
+        "link": "https://www.youtube.com/watch?v=tI-5uv4wryI"
+    },
+    "Oasis - Don't look back in anger": {
+        "author": "Oasis",
+        "title": "Don't look back in anger",
+        "link": "https://www.youtube.com/watch?v=r8OipmKFDeM"
+    },
     "Oasis - Live forever": {
         "author": "Oasis",
         "title": "Live forever",
         "link": "https://www.youtube.com/watch?v=TDe1DqxwJoc"
+    },
+    "Oasis - Supersonic": {
+        "author": "Oasis",
+        "title": "Supersonic",
+        "link": "https://www.youtube.com/watch?v=BJKpUH2kJQg"
     },
     "Oasis - Wonderwall": {
         "author": "Oasis",
@@ -4328,6 +4598,11 @@
         "author": "One Direction",
         "title": "What Makes You Beautiful",
         "link": "https://www.youtube.com/watch?v=QJO3ROT-A4E"
+    },
+    "One Republic - Apologize": {
+        "author": "One Republic",
+        "title": "Apologize",
+        "link": "https://www.youtube.com/watch?v=ZSM3w1v-A_Y"
     },
     "One Republic - Counting stars": {
         "author": "One Republic",
@@ -4582,7 +4857,7 @@
     "Pectus - To co chciałbym Ci dać": {
         "author": "Pectus",
         "title": "To co chciałbym Ci dać",
-        "link": "https://www.youtube.com/watch?v=X4ciBZc-9dU"
+        "link": "https://www.youtube.com/watch?v=c3V2jo6TRGA"
     },
     "Perfect - Autobiografia": {
         "author": "Perfect",
@@ -4698,6 +4973,21 @@
         "author": "Pitbull & Ke$ha",
         "title": "Timber",
         "link": "https://www.youtube.com/watch?v=hHUbLv4ThOo"
+    },
+    "Pixies - Gouge away": {
+        "author": "Pixies",
+        "title": "Gouge away",
+        "link": "https://www.youtube.com/watch?v=2twLJU_ggGI"
+    },
+    "Pixies - Hey": {
+        "author": "Pixies",
+        "title": "Hey",
+        "link": "https://www.youtube.com/watch?v=tVCUAXOBF7w"
+    },
+    "Pixies - Monkey gone to heaven": {
+        "author": "Pixies",
+        "title": "Monkey gone to heaven",
+        "link": "https://www.youtube.com/watch?v=EHC9HE7vazI"
     },
     "Pixies - Where Is My Mind": {
         "author": "Pixies",
@@ -5129,6 +5419,11 @@
         "title": "Super Freak",
         "link": "https://www.youtube.com/watch?v=QYHxGBH6o4M"
     },
+    "Rick Springfield - Dont talk to strangers": {
+        "author": "Rick Springfield",
+        "title": "Dont talk to strangers",
+        "link": "https://www.youtube.com/watch?v=cp42V938eBA"
+    },
     "Rick Springfield - Jessie's Girl": {
         "author": "Rick Springfield",
         "title": "Jessie's Girl",
@@ -5138,6 +5433,11 @@
         "author": "Ricky Martin",
         "title": "Livin' La Vida Loca",
         "link": "https://www.youtube.com/watch?v=p47fEXGabaY"
+    },
+    "Right Said Fred - I'm Too Sexy": {
+        "author": "Right Said Fred",
+        "title": "I'm Too Sexy",
+        "link": "https://www.youtube.com/watch?v=P5mtclwloEQ"
     },
     "Rihanna - Bitch Better Have My Money": {
         "author": "Rihanna",
@@ -5234,6 +5534,11 @@
         "title": "The Big Bang",
         "link": "https://www.youtube.com/watch?v=5etLRgwXmh0"
     },
+    "Rockwell - Somebody's watching me": {
+        "author": "Rockwell",
+        "title": "Somebody's watching me",
+        "link": "https://www.youtube.com/watch?v=7YvAYIJSSZY"
+    },
     "Rod Stewart - Da ya think I´m sexy": {
         "author": "Rod Stewart",
         "title": "Da ya think I´m sexy",
@@ -5279,6 +5584,11 @@
         "title": "Pójdźmy wszyscy do stajenki",
         "link": "https://www.youtube.com/watch?v=QZKuvVDUl30"
     },
+    "Sabrina Carpenter - Please, Please, Please": {
+        "author": "Sabrina Carpenter",
+        "title": "Please, Please, Please",
+        "link": "https://www.youtube.com/watch?v=cF1Na4AIecM"
+    },
     "Saint Motel - My Type": {
         "author": "Saint Motel",
         "title": "My Type",
@@ -5323,6 +5633,11 @@
         "author": "Schrott Nach 8",
         "title": "Zuppa Romana",
         "link": "https://www.youtube.com/watch?v=0BnbhliNvGg"
+    },
+    "Scorpions - Dust In The Wind": {
+        "author": "Scorpions",
+        "title": "Dust In The Wind",
+        "link": "https://www.youtube.com/watch?v=wO29FkM6LZM"
     },
     "Scorpions - Rock You Like a Hurricane": {
         "author": "Scorpions",
@@ -5488,6 +5803,11 @@
         "author": "Smokey Robinson & The Miracles",
         "title": "The Tracks of My Tears",
         "link": "https://www.youtube.com/watch?v=Yf2CB32jDYc"
+    },
+    "Snow Patrol - Chasing Cars": {
+        "author": "Snow Patrol",
+        "title": "Chasing Cars",
+        "link": "https://www.youtube.com/watch?v=GemKqzILV4w"
     },
     "Sokół feat Pono - W aucie VIDEO": {
         "author": "Sokół feat Pono",
@@ -6244,6 +6564,11 @@
         "title": "Summer In The City",
         "link": "https://www.youtube.com/watch?v=5YgevxRGXIU"
     },
+    "The Monkees - Daydream Believer": {
+        "author": "The Monkees",
+        "title": "Daydream Believer",
+        "link": "https://www.youtube.com/watch?v=xvqeSJlgaNk"
+    },
     "The Offspring - Pretty Fly": {
         "author": "The Offspring",
         "title": "Pretty Fly",
@@ -6318,6 +6643,11 @@
         "author": "The Pussycat Dolls",
         "title": "Sway",
         "link": "https://www.youtube.com/watch?v=knlcaEDkPl0"
+    },
+    "The Raconteurs - Steady, As She Goes": {
+        "author": "The Raconteurs",
+        "title": "Steady, As She Goes",
+        "link": "https://www.youtube.com/watch?v=DXAidGQUuns"
     },
     "The Rasmus - In The Shadows": {
         "author": "The Rasmus",
